@@ -1,5 +1,4 @@
 
-import {countryList} from './codes.js'
 const BASE_URL = "https://api.exchangerate-api.com/v4/latest";
 //"https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies";
 
